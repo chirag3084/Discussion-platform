@@ -1,1 +1,6 @@
 # Discussion platform project 
+## install the requirements
+```
+pip install -r requirements.txt
+
+```
